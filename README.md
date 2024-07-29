@@ -1,2 +1,4 @@
 # qr-snake
-The tinyest snake game in shell. Fits in a qr code
+Hey, wanna play a simple snake game in your shell ? But where is the code ? It's easy. It's just here:
+
+![snake](/snake.png)
