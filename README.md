@@ -20,7 +20,7 @@ If you already did that, simply do
 <details>
   <summary>Human readable code</summary>
   
-```
+```bash
 #!/bin/bash
 
 # Initialize variables
